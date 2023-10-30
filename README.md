@@ -1,4 +1,4 @@
-Markdown#1Kodluyoruz Ilk Repo
+Markdown#1-Kodluyoruz Ilk Repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası bir adet de index.html barındırıyor.
 Installation
 Öncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldığınız link gelecek)
